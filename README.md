@@ -5,3 +5,4 @@
 1. `csv` 파일은 다운로드 받아서 사용하시면 됩니다.
 2. 몇몇 파일은 용량 문제로 `zip` 파일로 묶어 두었습니다. 다운로드 후 압축 해제하셔서 사용하시면 됩니다.
 3. `instacart`는 용량이 커서 Kaggle에서 다운로드 하시면 됩니다.
+- [https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
